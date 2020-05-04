@@ -11,6 +11,10 @@ A repository to keep notes and backup files for the Westworld rescoring competit
  - At the beginning make chords really long. Shorten them with build. 
  - At hit, stay on 6m/4 chord
  - Later in song, switch to 2 and 3
+ 
+ ## Arrangement
+ - Slow down, low pass during high episodes
+ - Drop out, piano only during some part
 
 ## Inspiration
 - Moog sounds inspiration: https://www.youtube.com/watch?v=Plcv2e-15V0
