@@ -6,6 +6,11 @@ A repository to keep notes and backup files for the Westworld rescoring competit
  - Rising mid-range arp distorted synth
  - Pad: Big moog high arp through paulstretch
  - 
+ 
+ ## Chordal Things
+ - At the beginning make chords really long. Shorten them with build. 
+ - At hit, stay on 6m/4 chord
+ - 
 
 ## Inspiration
 - Moog sounds inspiration: https://www.youtube.com/watch?v=Plcv2e-15V0
