@@ -5,7 +5,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
  - Big dark background drum beat
  - Rising mid-range arp distorted synth
  - Pad: Big moog high arp through paulstretch
- - 
+ - Percussion: Make high tappy electro percussion with omni
  
  ## Chordal Things
  - At the beginning make chords really long. Shorten them with build. 
