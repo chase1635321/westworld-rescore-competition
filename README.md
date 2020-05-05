@@ -1,7 +1,7 @@
 # Westworld Rescoring Competition
 A repository to keep notes and backup files for the Westworld rescoring competition by Spitfire Audio. 
 
-## Todo
+## Priority
 - Map out song arrangement
 - Percussion demos at 100, 120, and 130
 - Work on screaming riser (VST to do this)
@@ -28,3 +28,11 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 ## Inspiration
 - Moog sounds inspiration: https://www.youtube.com/watch?v=Plcv2e-15V0
 - Moog sounds high arp: https://www.youtube.com/watch?v=aw8M205_3eU
+
+---
+
+## Bass
+- Blade runner like breathing synth bass
+- 8th and 16th note bass
+- Note bending bass at beginning
+- Bass FX blending
