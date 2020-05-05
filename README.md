@@ -1,6 +1,12 @@
 # Westworld Rescoring Competition
 A repository to keep notes and backup files for the Westworld rescoring competition by Spitfire Audio. 
 
+## Todo
+- Map out song arrangement
+- Percussion demos at 100, 120, and 130
+- Work on screaming riser
+
+---
 ## Sound Design
  - Big dark background drum beat
  - Rising mid-range arp distorted synth
