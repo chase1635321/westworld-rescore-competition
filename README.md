@@ -14,8 +14,9 @@ A repository to keep notes and backup files for the Westworld rescoring competit
  
  ## Arrangement
  - Slow down, low pass during high episodes
- - Drop out, piano only during some part
+ - Drop out, piano only during some part (Dolores theme)
  - Embed some westworld themes
+ - Fit in character themes
 
 ## Inspiration
 - Moog sounds inspiration: https://www.youtube.com/watch?v=Plcv2e-15V0
