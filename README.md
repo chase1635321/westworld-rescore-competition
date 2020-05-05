@@ -4,7 +4,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 ## Todo
 - Map out song arrangement
 - Percussion demos at 100, 120, and 130
-- Work on screaming riser
+- Work on screaming riser (VST to do this)
 
 ---
 ## Sound Design
