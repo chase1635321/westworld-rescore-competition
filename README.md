@@ -12,6 +12,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
  - Rising mid-range arp distorted synth
  - Pad: Big moog high arp through paulstretch
  - Percussion: Make high tappy electro percussion with omni
+ - Alarm sound like in arrow but bigger
  
  ## Chordal Things
  - At the beginning make chords really long. Shorten them with build. 
