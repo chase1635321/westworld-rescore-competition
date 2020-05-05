@@ -37,3 +37,8 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 - 8th and 16th note bass
 - Note bending bass at beginning
 - Bass FX blending
+
+## Percussion
+- Make HZ percussion sound less like HZ percussion
+- Make HZ percussion lines build every measure
+- Make top percussion big and industrial
