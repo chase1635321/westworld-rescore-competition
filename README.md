@@ -42,3 +42,4 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 - Make HZ percussion sound less like HZ percussion
 - Make HZ percussion lines build every measure
 - Make top percussion big and industrial
+- Make high percussion more melodic
