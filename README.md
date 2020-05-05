@@ -4,7 +4,8 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 ## Priority
 - Map out song arrangement
 - Percussion demos at 100, 120, and 130
-- Work on screaming riser (VST to do this)
+- Remake other parts of score and patches, use in rescore
+- Work on screaming riser/drone (VST to do this)
 
 ---
 ## Sound Design
