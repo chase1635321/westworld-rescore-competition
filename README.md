@@ -19,6 +19,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
  - Later in song, switch to 2 and 3
  
  ## Arrangement
+ - At beginning more atonal, one 6m chord. Then switch to 6m, 2m, 4
  - Slow down, low pass during high episodes
  - Drop out, piano only during some part (Dolores theme)
  - Embed some westworld themes
