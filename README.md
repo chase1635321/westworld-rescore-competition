@@ -4,6 +4,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 ## Priority
 - Bad: Not enough low-mid, duh duh duh duh small needs midrange
 - SCREAM SYNTH FM8: https://youtu.be/qPoj9K52Zp0
+- This sound: https://www.youtube.com/watch?v=IFKW1_OL7aI
 - Remake main synth bass from real score
 - Map out song arrangement
 - Percussion demos at 100, 120, and 130
