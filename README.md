@@ -3,6 +3,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 
 ## Priority
 - Make high percussion sound fit theme
+- Sounds from Junkie XL Cop Chase
 - SCREAM SYNTH FM8: https://youtu.be/qPoj9K52Zp0
 - This sound: https://www.youtube.com/watch?v=IFKW1_OL7aI
 - Remake main synth bass from real score
