@@ -4,6 +4,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 ## Priority
 - Bad: Not enough low-mid, duh duh duh duh small needs midrange
 - SCREAM SYNTH FM8: https://youtu.be/qPoj9K52Zp0
+- Remake main synth bass from real score
 - Map out song arrangement
 - Percussion demos at 100, 120, and 130
 - Remake other parts of score and patches, use in rescore
@@ -16,6 +17,7 @@ A repository to keep notes and backup files for the Westworld rescoring competit
  - Pad: Big moog high arp through paulstretch
  - Percussion: Make high tappy electro percussion with omni
  - Alarm sound like in arrow but bigger
+ - Redo every sound at some point
  
  ## Chordal Things
  - At the beginning make chords really long. Shorten them with build. 
@@ -45,4 +47,6 @@ A repository to keep notes and backup files for the Westworld rescoring competit
 - Make HZ percussion sound less like HZ percussion
 - Make HZ percussion lines build every measure
 - Make top percussion big and industrial
-- Make high percussion more melodic
+- Make high percussion melody more obvious
+- Completley redo at some point
+- Add NI Damage?
