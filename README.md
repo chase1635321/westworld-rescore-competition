@@ -2,6 +2,7 @@
 A repository to keep notes and backup files for the Westworld rescoring competition by Spitfire Audio. 
 
 ## Priority
+- Bad: Not enough low-mid, duh duh duh duh small needs midrange
 - SCREAM SYNTH FM8: https://youtu.be/qPoj9K52Zp0
 - Map out song arrangement
 - Percussion demos at 100, 120, and 130
