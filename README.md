@@ -1,5 +1,6 @@
 # Westworld Rescoring Competition
 A repository to keep notes and backup files for the Westworld rescoring competition by Spitfire Audio. 
+Like this playlist: https://www.youtube.com/watch?v=1GKx2MPveMQ
 
 ## Priority
 - Make map of arrangement parts, referencing songs
