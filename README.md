@@ -9,6 +9,7 @@ VSTS percussion: Damage, Action Strikes,
 - Sounds like this: https://www.youtube.com/watch?v=ANDm5sBYcjM
 - This sound: https://www.youtube.com/watch?v=IFKW1_OL7aI
 - Sounds from Junkie XL Cop Chase
+- FM8 persets
 
 ---
 ## Sound Design
