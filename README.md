@@ -7,24 +7,22 @@ VSTS percussion: Damage, Action Strikes,
 ## Priority
 - Make map of arrangement parts, referencing songs
 - Sounds like this: https://www.youtube.com/watch?v=ANDm5sBYcjM
-- Make high percussion sound fit theme
-- Sounds from Junkie XL Cop Chase
-- Try iZotope trash on high percussion
 - This sound: https://www.youtube.com/watch?v=IFKW1_OL7aI
-- Remake main synth bass from real score
-- Map out song arrangement
-- Percussion demos at 100, 120, and 130
-- Remake other parts of score and patches, use in rescore
-- Work on screaming riser/drone (VST to do this)
+- Sounds from Junkie XL Cop Chase
 
 ---
 ## Sound Design
  - Big dark background drum beat
+ - Remake main synth bass from real score
  - Rising mid-range arp distorted synth
  - Pad: Big moog high arp through paulstretch
  - Percussion: Make high tappy electro percussion with omni
  - Alarm sound like in arrow but bigger
  - Redo every sound at some point
+ - Work on screaming riser/drone (VST to do this)
+ - Remake other parts of score and patches, use in rescore
+ - Percussion demos at 100, 120, and 130
+ - Make high percussion sound fit theme
  
  ## Chordal Things
  - At the beginning make chords really long. Shorten them with build. 
