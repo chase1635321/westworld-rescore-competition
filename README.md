@@ -2,6 +2,8 @@
 A repository to keep notes and backup files for the Westworld rescoring competition by Spitfire Audio. 
 
 ## Priority
+- Make map of arrangement parts, referencing songs
+- Sounds like this: https://www.youtube.com/watch?v=ANDm5sBYcjM
 - Make high percussion sound fit theme
 - Sounds from Junkie XL Cop Chase
 - Try iZotope trash on high percussion
