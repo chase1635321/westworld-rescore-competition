@@ -7,6 +7,7 @@ VSTS percussion: Damage, Action Strikes,
 ## Priority
 - Make map of arrangement parts, referencing songs
 - Sounds like this: https://www.youtube.com/watch?v=ANDm5sBYcjM
+- Start percussion, layout something for entire song
 
 ---
 ## Sound Design
@@ -21,6 +22,7 @@ VSTS percussion: Damage, Action Strikes,
  - Remake other parts of score and patches, use in rescore
  - Percussion demos at 100, 120, and 130
  - Make high percussion sound fit theme
+ - Better detuning tension note. 
  
  ## Chordal Things
  - At the beginning make chords really long. Shorten them with build. 
